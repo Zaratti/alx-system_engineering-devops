@@ -1,0 +1,15 @@
+## This is the README file for shell permissions
+- The my name is Betty script switches the current user to Betty
+- The who am I script prints the effective username of the current user
+- The groups script print all the groups a user is part of
+- The new owner script changes the owner of the file
+- This is a script that creates an empty file
+- The execute script adds execute permission to the owner of the file named hello
+- This script adds execution permission to the owner and group owner, then read permission to other users
+- This script adds execution permission to the owner, group owner and other users to the file **hello**
+- This script sets no permission to the owner and group owner but full permissionto other users
+- This script sets the mode of the file **hello**
+- This script sets the file mode of **hello** as same as **olleh**
+- This script adds execute permission to all subdirectories of the current directory for the owner, the group and the other users
+- This script creates a directory called *my_dir* with permissions 751 in the working directory
+- This script changes the group owner of the hello file to school
