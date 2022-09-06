@@ -22,4 +22,8 @@
 - The task 19 script replaces characters A and c from input to z and e respectively
 - The task 20 script creates a script that removes all letters c and C from input
 - The task 21 script writes a script that reverse its input
-- The task 22 script writes a script that displays all users and their home directories, sorted by users.
+- The task 22 script writes a script that displays all users and their home directories, sorted by users
+- The task 23 script is a command that finds all empty files and directories in the current directory.
+- The task 24 script lists all the files with a .gif extension.
+- The task 25 script is a poem in which the first letter spells out a word, message or the alphabet.
+- The task 26 script parses web server logs in TSV formats.
