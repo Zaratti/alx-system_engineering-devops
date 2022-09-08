@@ -14,3 +14,7 @@
 - The task 11 script converts a number from base 2 to base 10.
 - The task 12 script prints all possible combinations of two letters, except _oo_.
 - The task 13 script prints a number with two decimal places, followed by a new line.
+- The task 100 script converts a number from base 10 to base 16.
+- The task 101 script encodes and decodes text using the rot13 encryption. Assume ASCII.
+- The task 102 script prints every other line from the input, starting with the first line.
+- The task 103 script adds two numbers stored in variables __WATER__ and __STIR__ and prints the result.
